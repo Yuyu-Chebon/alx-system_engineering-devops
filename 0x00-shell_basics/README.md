@@ -1,1 +1,1 @@
-Folder conating shell task solutions
+Shell tasks folder
